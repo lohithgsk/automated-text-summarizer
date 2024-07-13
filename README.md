@@ -1,1 +1,1 @@
-# automated-text-summarizer
+# Automated Text Summarizer
