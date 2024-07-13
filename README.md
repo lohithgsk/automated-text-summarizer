@@ -7,7 +7,11 @@ BART, a transformer model, combines a bidirectional encoder (similar to BERT) an
 
 ![Watch the video](https://github.com/lohithgsk/automated-text-summarizer/blob/main/public/images/demo.gif)
 
+## Environment Variables
 
+To run this project, you will need to add the following environment variables to your .env file
+
+-  Hugging Face `API_KEY`
 
 
 ## Run Locally
