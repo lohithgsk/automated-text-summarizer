@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Replit config files
+.replit
+replit.nix
+replit_zip_error_log.txt
+
+# Logs
+*.log
+
+# Cache directories
+.cache/
+
+# Config directories
+.config/
+.upm/
+
+# Dependency directories
+node_modules/
